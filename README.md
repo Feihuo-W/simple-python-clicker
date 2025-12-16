@@ -1,4 +1,4 @@
-<img width="1186" height="1030" alt="011ed4d71fbca857020e1d3ce974eb03" src="https://github.com/user-attachments/assets/d254188e-34e8-4560-a210-377a5d35eacf" /># simple-python-clicker
+
 My first Python tool, inspired by MouseClick  
 # Simple Python Auto Clicker (简易 Python 连点器) 🖱️
 
